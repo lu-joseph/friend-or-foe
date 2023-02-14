@@ -1,6 +1,6 @@
-# Friend or Foe
+## Friend or Foe
 Social interactions simulation for high school relationships
 
-(Windows Build)
 
+- Windows Build:
 Extract these files into any folder and run FriendOrFoe.exe
